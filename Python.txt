@@ -1,0 +1,54 @@
+# Introduction:
+Python is a high-level, object oriented and multipurpose programming language.
+It supports multile programming pattern i.e. object oreiented as well as structured programming language.
+It is used to develop different appplications such as:-
+                -- Console based application(eg: Ipython) 
+                -- GUI based application(eg: calculator, TextEditor)
+                -- Web applications(eg: Instagram, Pinterest)
+                -- Gaming applications(eg: Tic-Tac-Toe, Snake game)
+                -- Image processing
+                -- Text processing
+
+# History:
+Python is developed by "Guido Van Rossum". He is known as the father of python.
+He developed python at National Research Institute for Mathematics and Computer Science in The Netherlands.
+Its first version i.e. Version !.0 was released in 1994.
+
+# Features:
+1. Simple - It uses english like words
+2. Platform independent
+3. Interpreted - It is processed at run time by the interpreter(which compiles the code line by line)
+4. Portable
+5. Object-Oriented
+6. Multi-threaded - Supports multi threading
+7. Dynamically typed - As we don't need to use data types to declare a variable
+
+**The interpreter used in python is Cpython. The coding of interpreter is in C language.
+
+# Examples of various applications based on python are:- BitTorrent, Youtube, Dropbox, Cinema4D, etc.
+
+# 3 Ways to Create Program in Python:
+1. Interactive mode (directly working on cmd)
+2. Script mode (working with notepad and cmd)
+3. IDLE mode (Integrated Development and Learning Environment)
+
+# Variable:
+Variables are reserved memory locations which store values. They are examples of identifiers.
+
+#Identifier:
+Identifiers are the names given by user to something to identify.
+Rules:-
+1. First character of identifier must be an umderscore(_), or a letter.
+2. Rest of the characters in identifier can be '_', letter or number/digit.
+3. Special characters like @,$,%,etc. are not allowed in identifier.
+
+#Data Types:
+Variable can hold value or data of different types called data types.
+It consists of:-
+1. numbers
+2. string
+3. list
+4. tuple
+5. dictionary
+Data types can be of two types i.e., either mutable or immutable.
+ 
