@@ -20,6 +20,10 @@ print(c[-3])
 # String slicing or substring
 print(c[2:7])
 print(c[-5:-1])
+print(c[-9:9]) # this will print the whole string
+print(c[-1:-9]) # this will print nothing i.e. the output will be blank
+print(c[-1:-10:1]) # this will also print blank
+print(c[-1:-10:-1]) # this will print reverse string
 
 # strip() is a function to remove any whitespace from front and end
 d="   Hello    "

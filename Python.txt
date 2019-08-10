@@ -50,5 +50,18 @@ It consists of:-
 3. list
 4. tuple
 5. dictionary
-Data types can be of two types i.e., either mutable or immutable.
+Data types can be of two types i.e., either mutable(changeable) or immutable(non-changeable).
  
+#Difference Between List and Tuple:-
+   +---------------------------------------------------------------++--------------------------------------------------------------+
+   +                   List                                       ++                     Tuple                                 +
+   +---------------------------------------------------------------++--------------------------------------------------------------+
+   + *It is "Mutable".                                       ++ *It is "Immutable".                                 +
+   + *List is created by using square brackets    ++ *Tuple is created either by using round  +
+   +  e.g:- a=[1,'a',6.7,"Hello"]                         ++ brackets() or not using them since          +
+   +                                                                ++ python by default consider it as tuple.    +
+   +                                                                ++ e.g:- a=(1,'a',6.7,"Hello")                        +
+   +                                                                ++ or a=1,'a',6.7,"Hello"                             +
+   + *List works slow.                                     ++ *Tuple works fast.                                  +
+   + *List is not secure as it is mutable.             ++ *Tuple is secure as compare to list.          +
+   +----------------------------------------------------------------++---------------------------------------------------------------+
